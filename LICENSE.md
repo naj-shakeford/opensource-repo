@@ -33,4 +33,4 @@ FROM, OR AROSE OUT OF THE RESULTS OF, OR USE OF, THE SOFTWARE OR SERVICES
 PROVIDED HEREUNDER.
 
 To see the latest statement, please visit:
-[https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software](Copyright, Fair Use, and Licensing Statements for SRD, Data, and Software)
+[Copyright, Fair Use, and Licensing Statements for SRD, Data, and Software](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications)
